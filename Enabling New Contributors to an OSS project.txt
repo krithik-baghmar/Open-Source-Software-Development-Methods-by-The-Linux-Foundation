@@ -1,0 +1,15 @@
+Put in place a clear Code of Conduct
+
+Create a proper Code of Conduct that explicitly states rules within your FOSS community. A lot of new contributors, including me, are scared of being treated badly, or looked down upon while trying to contribute.
+Your Code of Conduct that clarifies how to report violations can help folks feel safe. This also entails calling out bad behavior at every step, irrespective of the stature of the person involved, and taking appropriate action.
+
+Welcome all kinds of contributions
+
+Our field has a nasty tendency to look down on non-code translations. Please don’t let your project fall prey to this mentality.
+Encourage all kinds of contributions, be they documentation, code, fixing typos, tests — anything at all.
+
+Reward new contributors
+
+If you have the budget, reward new contributors by sending them swag such as stickers or shirts.
+If your budget doesn’t permit that, then a simple shoutout or mention in a blogpost or on social media can also go a long way. It’ll make them realize that their contributions — no matter big or small — aren’t overlooked, and that they are valued.
+This establishes a feeling of belonging that may inspire them to contribute more.

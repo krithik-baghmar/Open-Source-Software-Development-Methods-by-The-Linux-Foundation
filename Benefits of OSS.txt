@@ -1,0 +1,16 @@
+the benefits offered by open-source software, Here are some of the main factors:
+
+1. Cost
+The financial benefits offered by open-source software have been one of the main driving factors behind the switch from proprietary (closed) software to OSS. While the word “free” in the popular term “free software” refers to freedom (libre) rather than free of charge, most open-source software doesn’t cost a dime to purchase or implement, and although this is often the first attraction for businesses, it’s the low total cost of ownership (TCO) that really seals the deal.
+
+Open-source software doesn’t include many of the fees and charges associated with proprietary software, such as multi-user fees, administration fees, and upgrade costs. These financial savings not only allow businesses to reduce operating costs and budgets, but also enables them to allocate more money on beneficial enterprise services associated with OSS, such as user training, support, and custom development.
+
+2. Security
+The security advantages on offer don’t necessarily mean that OSS is more secure than proprietary software, it just means that bugs and defects can be identified and fixed quicker. As the source code for open-source software is freely available, anyone can inspect the code for faults.
+
+Linus Torvalds, the creator of the open-source operating system, Linux, stated that, “given enough eyeballs, all bugs are shallow,” meaning that the more people (developers) looking at the source code, the more fixes and regular updates will be available – and with the large, worldwide open-source community, this a common occurrence. What can sometimes takes weeks or months to resolve with proprietary software takes just hours or days with OSS.
+
+3. Quality
+In the same way developers fix bugs and defects to make OSS more secure, they also contribute by adding features to improve the user experience and the software itself. On any given open-source project, there can be hundreds or thousands of developers all adding new features or enhancing existing ones to improve the overall quality of the software.
+
+Unlike proprietary software that is developed based on the company’s own ideas and vision, OSS is quite often more in line with the customers’ true needs and requirements, as the users themselves (provided they have the necessary skills) can add their desired features.
